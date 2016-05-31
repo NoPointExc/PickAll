@@ -1,0 +1,7 @@
+###pick  
+cherry-pick peaches automatically from google AOSP. Use a peach.txt to provide id of peach.   
+program will yield when failed to pick one peach.
+
+```./pick.rb -a # pick all peach```
+```./pick.rb -c # clean and sort ids ``` 
+
